@@ -5,6 +5,7 @@ This project is an Uber clone application that includes several unique features 
 ## Deploy Link
 
 link: https://uber-clone-xi-pearl.vercel.app/
+**Note:** This is a demo version, and you might need to refresh the page (usually once, but sometimes more) for the Google Map to load correctly.
 
 ## Features
 
