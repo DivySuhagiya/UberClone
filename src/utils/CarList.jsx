@@ -5,7 +5,7 @@ export const CarListData = [
 		seat: 4,
 		desc: "Affordable compact rides",
 		price: 20,
-		amount: 1.1,
+		amount: 35,
 		img: "https://d1a3f4spazzrp4.cloudfront.net/car-types/haloProductImages/Hatchback.png",
 	},
 	{
@@ -14,7 +14,7 @@ export const CarListData = [
 		seat: 4,
         desc: "Pay directly to driver, cash/UPI only",
 		price: 20,
-		amount: 1.1,
+		amount: 25,
 		img: "https://d1a3f4spazzrp4.cloudfront.net/car-types/haloProductImages/v1.1/TukTuk_Green_v1.png",
 	},
 	{
@@ -22,8 +22,8 @@ export const CarListData = [
 		name: "UberXl",
 		seat: 6,
         desc: "Comfortable SUVs",
-		price: 20,
-		amount: 1.1,
+		price: 50,
+		amount: 50,
 		img: "https://d1a3f4spazzrp4.cloudfront.net/car-types/haloProductImages/package_UberXL_new_2022.png",
 	},
     {
@@ -31,8 +31,8 @@ export const CarListData = [
 		name: "Go Sedan",
 		seat: 4,
         desc: "Affordable compact rides",
-		price: 20,
-		amount: 1.1,
+		price: 40,
+		amount: 40,
 		img: "https://d1a3f4spazzrp4.cloudfront.net/car-types/haloProductImages/v1.1/UberX_v1.png",
 	},
     {
@@ -40,8 +40,8 @@ export const CarListData = [
 		name: "Premier",
 		seat: 4,
         desc: "Comfortable sedans,top-quality drivers",
-		price: 20,
-		amount: 1.1,
+		price: 60,
+		amount: 60,
 		img: "https://d1a3f4spazzrp4.cloudfront.net/car-types/haloProductImages/package_UberComfort_new_2022.png",
 	},
 ];
